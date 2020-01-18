@@ -88,6 +88,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="40" y="14" key="CommitChangelistDialog2" timestamp="1579369759342">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="40" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579369759342" />
     <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1579236165401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -116,5 +120,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="454" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579369396250" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579369768314">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1579369768314" />
   </component>
 </project>
