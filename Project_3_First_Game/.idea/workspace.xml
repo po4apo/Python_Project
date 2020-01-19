@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77cb9410-48d3-421b-b95f-2b55671b2621" name="Default Changelist" comment="" />
+    <list default="true" id="77cb9410-48d3-421b-b95f-2b55671b2621" name="Default Changelist" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +35,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -99,46 +104,70 @@
       <option name="project" value="LOCAL" />
       <updated>1579369812488</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test commit">
+      <created>1579369964211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579369964211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="40" y="14" key="CommitChangelistDialog2" timestamp="1579369759342">
+    <state x="40" y="14" key="CommitChangelistDialog2" timestamp="1579421410182">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="40" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579369759342" />
+    <state x="40" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579421410182" />
     <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1579236165401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1579236165401" />
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1579192455585">
+    <state x="618" y="310" key="Github.ShareDialog" timestamp="1579370236800">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579192455585" />
-    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1579192455585">
+    <state x="618" y="310" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1579370236800" />
+    <state width="757" height="213" key="GridCell.Tab.0.bottom" timestamp="1579421412632">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579192455585" />
-    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1579192455585">
+    <state width="757" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1579421412632" />
+    <state width="757" height="213" key="GridCell.Tab.0.center" timestamp="1579421412632">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579192455585" />
-    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1579192455585">
+    <state width="757" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1579421412632" />
+    <state width="757" height="213" key="GridCell.Tab.0.left" timestamp="1579421412632">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579192455585" />
-    <state x="-4" y="32" width="914" height="715" key="SettingsEditor" timestamp="1579369455458">
+    <state width="757" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1579421412632" />
+    <state width="757" height="213" key="GridCell.Tab.0.right" timestamp="1579421412632">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="-4" y="32" width="914" height="715" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579369455458" />
-    <state x="454" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579369396250">
+    <state width="757" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1579421412632" />
+    <state x="-4" y="32" width="914" height="715" key="SettingsEditor" timestamp="1579370192798">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="454" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579369396250" />
+    <state x="-4" y="32" width="914" height="715" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1579370192798" />
+    <state x="454" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579420066497">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="454" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1579420066497" />
     <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579369768314">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
